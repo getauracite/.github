@@ -41,7 +41,7 @@ See full pricing at [auracite.de/pricing](https://auracite.de/pricing).
 
 ## Contact
 
-- General, sales, support, press, research: <g@auracite.de>
+- General, sales, support, press, research: `g@auracite.de`
 - LinkedIn: [AuraCite Company Page](https://www.linkedin.com/company/auracite-de/)
 - YouTube: [@getAuraCite](https://www.youtube.com/@getAuraCite)
 - Impressum: [auracite.de/impressum](https://auracite.de/impressum)
